@@ -12,3 +12,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltadev-rsc&layout=compact&theme=dark)
+### Stop... Batchfile?! But i removed repository with batchfile code
