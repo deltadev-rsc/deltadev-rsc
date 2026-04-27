@@ -1,16 +1,14 @@
-## Hi there 👋
+## deltadev-rsc: a new account whose stocks come from [DeltaDevSys](https://github.com/DeltaDevSys).  
 
-<!--
-**deltadev-rsc/deltadev-rsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming languages:
+![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=data:image/webp;base64,UklGRo4EAABXRUJQVlA4TIEEAAAvL8ALEPXI1fbPkKW5s42m/tVr27Zt27Zt27ZS27ZV6P9kJ6z07C3sM1ew+q/if7ZGPyesW9jQSCDItp220daznu6Bqy+FmczMTgTGgARHACBD0tqO9mzbtq2qRlU7vf/HA0cUAILKR67ZvkITt05hW1dwHaAm23UGG1OreQG758BtJEVytMyHf3ApqwDTDADBBJRAEM4TANTkCsJ/KNJyApYIx9egxVAWFIR2UQPMWXBLSGbxOYayEJagXMooMvCICDw/jJTrA2MF0C2KXBtERLJKv3HbJuIAUDejyDxSSPpuE0X+cDpg/YoizxZp5D1Jb8cCDAG8iBqAsqCKdCTjeIMAQPkA+h9F2g6ZgZvaQjWZ5EKA6Rg1wIIFt8hC5uGtySQXEQaAqxlFRgHZEn4cC5Hu9J8AQE8ocsvIStbpL4Ph0+wE4UHW1T3dammcyzEFmvLbFz2cA/29HfWONwKqBVmQniet2xtNmgdEVEr8eVNSAiIiGbh9q/jM5gDQhy7rVLj2LrqDcro5h5Rp2aLbKO+6KrihC/yesaeoEDIzz38pJCSilc9pfkB/SPkrHV9sA0DrrGtrnHq/+jZuMxti5td+XLwqPVEyEKXG6d7icU427qT6y7qsZ3+KsnLnii65qCs0FMThwSJOqDDNsKoet/4+qqN57JbOyzP/xdzb2XMH5dQ43GMObIso1W9+jvpPLdtbR1TbAdWlo/Sm6TQvAZjOjCEzla6qot7uvryLX1+62ofub7+tcw4ObS2v5+TKCO6JMnLYcQMV5OTGosecGeOKU7rBIPP0nuuIUToB3MCGVsY5X3z9gXe0Axv5CGbuZB279C7zh19tvfsTWbh3X/vuyiHV0a67dk7X1JKvrqEiA0nXzegA63rT8mrS4bElxwz8mpQsu6ELcs3+MPOv4dm2M7rOH3231RfvqvA/fmy/a8644ojqOKUakn7ysKkCR3qFPTltLADWp8byFVXivfe+s32EmSVopXIhOXNY45eO85J+XL+jhXzi543LLEoV4v1b2C4tr+d8R/NYxe2zR49OP+s2sBGcgSqZplKeixRFFTm4rou2P0fdF43vdzQWrywK2qLTciAArWmWVZPOvyrSE4WZ5xWzbuiCnDMwN5/zoGdzIVlV/JrQb/OThi1KFJmKJfLBWYhflSGA35g501S6rMoWVdOYmVtcL/j39Y83jj1bvPdf1j+nVBIgRPk7yhdgkbMlCA+oD9XrQssvyrPXJdfvMi21igJ1bm88HNodatE8ub+xe3ulgXwXqeMayTdK4UjsJfA552KJEGEqcxN/hQ2X5uzFqamyyr5XIpQCgR4J/c2zfU8lIaULhFKyFG9Nvq8jXFgSy7w0U15DilAKOLLVhQdYLxjSz0i5O0IpFuONQ8jwiWnG71ghT0IN5Rgq4HGewySAujSZV1oFhlCK+GIjgd9hLhELqKFMJX4L2j+JDhcQXcLMOY5KhFLQl0Po/xFBaIclJWVKhFIyE88xlIUS+J/KZ0iooQIDBU1R4/BlnKmV7yjFInHhUlQ5AA==)
 
-Here are some ideas to get you started:
+### OS: 
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltadev-rsc&layout=compact&theme=dark)
