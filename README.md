@@ -18,6 +18,16 @@
 ![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-black.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
+### My projects:
+* ### OpenDelta
+  #### This is real big project. This is my UNIX-like OS and Linux Distro for x86_64, i386, ARM, AVR, MIPS. I'm developing UNIX-like edition solo.
+  #### A Linux distro is developed by a team. It includes a command line and its shell, a graphical shell, its own application stack, and so on.  
+  #### (28.04.2026) on 09.06.2026, there will be an alpha release of UNIX-like on i386, then in June or July, an alpha release for x86_64 will be in preparation.
+
+* ### DeltaNvim
+  #### This is my Neovim build for C, C++, Rust, Assembly and Bash
+  #### I'm developing all project in solo.
+
 
 ### Statistic: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltadev-rsc&layout=compact&theme=dark)
