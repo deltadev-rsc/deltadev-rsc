@@ -30,6 +30,6 @@
 
 
 ### Statistic: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltadev-rsc&layout=compact&theme=dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=deltadev-rsc&theme=dark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltadev-rsc&theme=dark)
