@@ -30,8 +30,8 @@
 
 
 ### Statistic: 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=deltadev-rsc&theme=onedark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=deltadev-rsc&theme=gruvbox&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=deltadev-rsc&theme=onedark&hide_border=true" alt="My Contributions" /></a><br>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=deltadev-rsc&theme=gruvbox&hide_border=true" alt="My Contributions" /></a><br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltadev-rsc&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltadev-rsc&theme=gruvbox)
